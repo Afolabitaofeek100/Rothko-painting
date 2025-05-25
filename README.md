@@ -1,6 +1,6 @@
-# Project Name
+# Rothko Painting
 
-> One paragraph statement about the project.
+> This project adds the freecodecamp rothko painting.
 
 ![screenshot](./app_screenshot.png)
 
@@ -21,7 +21,7 @@ Additional description about the project and its features.
 - Clone the project
 
 ```bash
-git clone https://github.com/afolabitaofeek/html-css-template.git
+git clone https://github.com/Afolabitaofeek100/Rothko-painting.git
 ```
 
 - Install Dependencies
@@ -84,9 +84,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration, resources/assets used
-- etc
+- [FreeCodeCamp](https://www.freecodecamp.org/)
 
 ## 📝 License
 
