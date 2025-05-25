@@ -14,14 +14,14 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://rothko-painting-kogbagidi.netlify.app/)
 
 ### Development (Running locally)
 
 - Clone the project
 
 ```bash
-git clone https://github.com/Afolabitaofeek100/Rothko-painting.git
+git clone https://github.com/afolabitaofeek100/Rothko-painting.git
 ```
 
 - Install Dependencies
